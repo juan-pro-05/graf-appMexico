@@ -1,23 +1,20 @@
-# Prompt para IA: Página interactiva de la Bandera de México 🇲🇽
+# Instituto Tecnológico de Pachuca
 
-Quiero que me generes una página web moderna e interactiva que represente la bandera de México.  
-La bandera debe tener tres franjas **verticales del mismo tamaño**: verde, blanco y rojo, como en la bandera oficial.
+## Ing. Sistemas Computacionales
 
-En la **franja blanca**, debe ir centrada una imagen llamada `aguila.png` (el escudo nacional), que ya tengo localmente en la carpeta del proyecto.  
+## Graficación
 
-Además, en la parte superior quiero mostrar **tres secciones**:
 
-- Una para "Esperanza", con un selector de color (`input type="color"`) que modifica el color verde de la bandera.
-- Una para "Unidad", con un cuadro blanco fijo, sin interacción.
-- Una para "Sangre de nuestros héroes", también con un selector de color que modifica el color rojo.
+### 1.4 Práctica integradora Bandera de México (1.1 + 1.2 + 1.3)
 
-Debajo de cada título debe mostrarse el código hexadecimal actual del color.
+### Equipo: 
 
-Todos los elementos deben estar **alineados y centrados visualmente**, con el mismo tamaño para los tres bloques (para que no se vea desbalanceado el centro).  
-El diseño debe ser moderno, responsivo y simétrico. También debe evitar que la imagen del escudo sobresalga o altere la altura de la franja blanca.  
+ - #### Contreras Torres Ashley Arumy
+ - #### Jurado Torres Juan
+ - #### Rodríguez Morales Reyna Olivia
 
-Finalmente, quiero que entregues el resultado dividido en **3 archivos separados**:
+### Fecha entrega: 10 septiembre de 2025
 
-- `index.html`
-- `style.css`
-- `script.js`
+## Prompt Chat GPT
+
+##### Quiero que me generes una página web moderna e interactiva que represente la bandera de México. La bandera debe tener tres franjas verticales del mismo tamaño: verde, blanco y rojo, como la bandera oficial, en la franja blanca, quiero que esté centrada una imagen llamada aguila.png (el escudo nacional), que ya tengo en mi carpeta de proyecto. Además, quiero que en la parte superior haya controles para cambiar los colores verde y rojo usando input type="color", pero que el blanco se mantenga fijo (#FFFFFF), al cambiar los colores, deben actualizarse en tiempo real en las franjas. El diseño debe ser moderno y responsivo, con bordes limpios, espaciado adecuado, y centrado visualmente en pantalla, también asegúrate de que no haya sobresalientes verticales en la franja blanca por la imagen y que todo esté bien alineado. Entrega el resultado en 3 archivos separados: index.html, style.css y script.js.
